@@ -1,6 +1,5 @@
-# Rushil Sehgal
-Data Analyst
-
+theme: minima
+## About
 I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of experience as a Senior Software Engineer at Wipro. My focus primarily revolved around Data and Analytics, where I engaged in the migration of data from legacy systems to the AWS cloud. Also, holding a Bachelors in Computer Science.
 
 ## Skills
