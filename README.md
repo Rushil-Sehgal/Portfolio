@@ -12,15 +12,15 @@ I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of ex
  - Database: MySQL, PostgreSQL, MS SQL Server
 
 ## Work Experience
-**London Drugs – Tech Specialist**                                                                                        May 2022 – Present<br>
-*Vancouver, Canada*
+**London Drugs – Tech Specialist**                                                                                        
+<br>*Vancouver, Canada*
  - Advised clients on tech products across 4 departments on technology products, enhancing customer satisfaction and informed decisions
  - Analyzed inventory using Microsoft SQL reports, minimizing discrepancies by 20%, optimizing stock availability for streamlined operations
  - Achieved a 25% boost in sales through exceptional customer experience and effective product knowledge
  - Presented technical concepts to non-technical clients, ensuring clear communication and understanding
-
-**Wipro Limited – Senior Software Engineer**                                                                             Nov 2018 – Dec 2021
-*Bangalore, India*
+<br>
+**Wipro Limited – Senior Software Engineer**                                                                             
+<br>*Bangalore, India*
  - Supported migration of 3 legacy applications to AWS cloud for retail clients, ensuring a seamless transition, innovative solutions with 
    15% cost reduction
  - Contributed to data cleaning and validation efforts, reducing data errors by 20% and ensuring accuracy for critical business decisions
@@ -32,8 +32,8 @@ I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of ex
    timelines
 
 ## Education
-**Langara College**, *Vancouver, Canada*                                                                                 Jan 2022 – Apr 2023
-*Post-Degree Diploma – Data Analytics*
+**Langara College**, *Vancouver, Canada*                                                                                 
+<br>*Post-Degree Diploma – Data Analytics*
 
-**Chandigarh Group of Colleges**, *Mohali, India*                                                                        Aug 2014 – Jun 2018
-*Bachelor of Technology – Computer Science*
+**Chandigarh Group of Colleges**, *Mohali, India*                                                                        
+<br>*Bachelor of Technology – Computer Science*
