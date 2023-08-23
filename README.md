@@ -4,12 +4,12 @@ Data Analyst
 I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of experience as a Senior Software Engineer at Wipro. My focus primarily revolved around Data and Analytics, where I engaged in the migration of data from legacy systems to the AWS cloud. Also, holding a Bachelors in Computer Science.
 
 ## Skills
- - Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Data Modeling, Data Transformation, Data Visualization
- - Programming: Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn), R, SQL
- - Statistical Methods: Regression Analysis, Hypothesis Testing, Statistical Tests, Clustering
- - Machine Learning: Natural Language Processing (NLP), Transformers (BERT)
- - Tools/Visualization: Microsoft Excel, Tableau, Power BI, Jupyter Notebook
- - Database: MySQL, PostgreSQL, MS SQL Server
+ - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Modeling, Data Transformation, Data Visualization
+ - **Programming:** Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn), R, SQL
+ - **Statistical Methods:** Regression Analysis, Hypothesis Testing, Statistical Tests, Clustering
+ - **Machine Learning:** Natural Language Processing (NLP), Transformers (BERT)
+ - **Tools/Visualization:** Microsoft Excel, Tableau, Power BI, Jupyter Notebook
+ - **Database:** MySQL, PostgreSQL, MS SQL Server
 
 ## Work Experience
 **London Drugs – Tech Specialist**                                                                                        
@@ -30,6 +30,15 @@ I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of ex
    database performance
  - Guided with 2 new migration teams, streamlining migration activities and resource allocation, resulting in 10% reduction in project 
    timelines
+
+## Projects
+**Twitter Data Analysis**
+ - Utilized BERTweet and BERTopic models for Twitter analysis to analyze Covid-19 impact on elderly people in the USA
+- Communicated findings through reports and interactive dashboards in Tableau for data-driven decision-making
+
+**OCR Receipt Detection**
+ - Developed Python OCR solution with Detectron model for 88% accurate text extraction from diverse receipts and PDFs
+ - Integrated Tesseract for a 40% reduction in manual processing time, streamlining expense tracking and account processing
 
 ## Education
 **Langara College**, *Vancouver, Canada*                                                                                 
