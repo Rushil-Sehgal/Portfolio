@@ -12,7 +12,7 @@ I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of ex
  - Database: MySQL, PostgreSQL, MS SQL Server
 
 ## Work Experience
-**London Drugs – Tech Specialist**                                                                                        May 2022 – Present
+**London Drugs – Tech Specialist**                                                                                        May 2022 – Present<br>
 *Vancouver, Canada*
  - Advised clients on tech products across 4 departments on technology products, enhancing customer satisfaction and informed decisions
  - Analyzed inventory using Microsoft SQL reports, minimizing discrepancies by 20%, optimizing stock availability for streamlined operations
