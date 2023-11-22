@@ -42,7 +42,7 @@ I'm a Data graduate with Post-Degree Diploma in Data Analytics and 3 years of ex
 *Bachelor of Technology – Computer Science*
 
 ## Interests & Others
-**Interests:** Photography (Street Style), Cooking (North Indian Cuisine)
-**Soft Skills:** Self Starter, Teamwork, Collaboration, Adaptability, Problem Solving, Organizational Skills, Multitasking
-**Activities:** Engaged in and facilitated a range of technical and non-technical workshops
-**Languages:** Fluent in English and Hindi, Conversational Proficiency in Punjabi
+- **Interests:** Photography (Street Style), Cooking (North Indian Cuisine)
+- **Soft Skills:** Self Starter, Teamwork, Collaboration, Adaptability, Problem Solving, Organizational Skills, Multitasking
+- **Activities:** Engaged in and facilitated a range of technical and non-technical workshops
+- **Languages:** Fluent in English and Hindi, Conversational Proficiency in Punjabi
